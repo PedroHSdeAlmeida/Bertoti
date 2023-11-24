@@ -50,7 +50,7 @@ O sistema deve informar continuamente ao usuário sobre o que está acontecendo,
  <p>
    No Uber, a possibilidade de acompanhar o motorista em tempo real oferece aos usuários uma visão clara do status da sua viagem. Desde a solicitação até a chegada do veículo.
  </p>
- <img src="img/imagemuber.png" width="800px" />
+ <img src="img/exemplouber.png" width="800px" />
 </details>
 <br>
 <br>
