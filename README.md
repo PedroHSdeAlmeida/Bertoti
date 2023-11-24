@@ -1,5 +1,4 @@
-<h1>Pedro Henrique Silva De Almeida <br>
-Trabalho realizado para a disciplina de Interação humano computador<h1>
+<h1> Trabalho realizado para a disciplina de Interação humano computador <h1>
   
 Heurísticas
 
@@ -12,9 +11,9 @@ Projetar interfaces que evitem erros é mais eficaz do que simplesmente fornecer
  <summary>Exemplo 1</summary>
  <br>
  <p>
-  Nessa heurísticas o ideal é que os sistemas sempre mantenham os usuários informados sobre o que está acontecendo, por meio de feedback apropriado dentro de um prazo razoável, no exemplo abaixo, o spotify consegue sempre manter o usuário informado sobre qual musica está escutando e qual será a próxima.
+  Um ótimo exemplo para essa heurística pode ser encontrado no próprio GitHub, que realiza diversas verificações antes de permitir a exclusão de um repositório. Essa prática ajuda a evitar que os usuários cometam erros irreversíveis, como excluir um repositório sem a devida intenção.
  </p>
- <img src="https://github.com/KevinRomRib/Bertoti/blob/main/IHC/img/1%20-%20bom.png" width="800px" />
+ <img src="img/imagemgit.png" width="800px" />
 </details>
 <br>
 
